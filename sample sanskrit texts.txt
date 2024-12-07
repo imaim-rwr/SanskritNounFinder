@@ -1,0 +1,11 @@
+sample sanskrit text
+1. बालः नगरं आगच्छति।
+(The boy comes to the city.)
+2. कन्याः गोवृषौ अनुयान्ति च शिलायां अपद्रवन्ति।
+(The girls chase the two cows and stumble over the rock.)
+3. शिकारिणौ पक्षिणः वेधयन्ति बाणैः वने।
+(The hunters shoot birds by arrows in the forest.)
+4. पुरुषः पितरः उत्पन्नः मातरि च जातः।
+(The man was born from the father and in the mother.)
+5. राजा एकदा नगरं गच्छन् मार्गे एकं वृद्धं पश्यति। वृद्धः दुःखितः अस्ति। राजा तं पृष्टवान्, “तुम्हारा दुःख क्या है?” वृद्धः उत्तरितवान्, “मम पुत्रः दूरे अस्ति, अहम् एकाकी अस्मि।” राजा सहानुभूति प्रकट्य तं सह क्रीडां कर्तुं आमंत्रितवान्। कन्याः आणि बालकाः खेलन्ति। राजकुमारः अपि तेषां सह क्रीडां कर्तुम् आरभत्। सर्वे सुखीनः आसन्।
+(Once, the king was going to the city and saw an old man on the road. The old man was sad. The king asked him, “What is your sorrow?” The old man replied, “My son is far away, and I am alone.” The king, showing sympathy, invited him to play with him. The girls and boys were playing. The prince also started playing with them. All were happy.)
